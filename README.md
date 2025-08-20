@@ -1,12 +1,12 @@
 # RideGodi
 
-Repository for the new app Ridegodi 
+Repository for Ridegodi 
 
-downloads: bicigodibili.vado.li
+THIS IS JUST THE GITHUB REPOST WITH THE COMPILED VERSION OF THE SOURCE CODE
 
-updates (future use): biciupdates.vado.li
+downloads: check the releases
 
-Here is another place where we can publish code and links.
+updates (future use): pretty sure they won't get released
 
 We have to be thankful to https://honey.noblogs.org/ (it should be public) that gave us some interesting starting points.
 
