@@ -277,7 +277,7 @@ class Main(MDApp):
             self.root.ids.but.text="Sblokka!"
         else:
             label = self.root.ids.show
-            label.text = "Bike not available for the moment"
+            label.text = "Non disponibile"
             
     def open(self):
     	asyncio.run(writeccc(macs[self.current],self))
